@@ -9,5 +9,5 @@ To work around this, I ended up creating numerous files where I kept one coordin
 That's when I thought it would be awesome to automate the task of extracting energies from each of these files and organizing them neatly into a table. Plus, it also calculates the relative energy for your dataset.
 
 That's the simple idea behind this piece of code. My plan is to refine this code further in the coming days to enable the generation of potential energy surfaces.
-[You can access here](https://github.com/MartFrancisco/Gaussian16-Utilities/blob/getting-scan-energies/Extract%20energy%20from%20scan%20calculation.ipynb).
+[You can access here the code for taking energies from G16 .out files](https://github.com/MartFrancisco/Gaussian16-Utilities/blob/getting-scan-energies/Extract%20energy%20from%20scan%20calculation.ipynb).
 
