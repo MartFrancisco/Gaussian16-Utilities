@@ -8,7 +8,7 @@
 import argparse
 import subprocess
 
-def smiles_xyz(file_path, mem=32, proc=32, level='opt freq wb97xd/def2svp', charge=0, mult=1):
+def smiles_xyz(file_path, mem=32, proc=32, level='# opt freq wb97xd/def2svp', charge=0, mult=1):
     try:
         # Open the file in read mode ('r' for reading)
         with open(file_path, 'r') as file:
